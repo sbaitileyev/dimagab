@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+footer {
+    background-color: blue;
+    padding: 20px;
+}
+header{
+      background-color: greenyellow; 
+      text-align: center
+}
+ul {
+    font-size: 20px;
+    padding:20px 0px 20px 40px ;
+    border:10px double #200772 ;
+}
+h1{
+        text-align: center
+}
